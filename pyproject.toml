@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mockapi"
+name = "mockapiv2"
 version = "1.0.0"
 description = "Spin up a mock HTTP server from a YAML/JSON spec with hot reload, dynamic rules, and request logging"
 readme = "README.md"
